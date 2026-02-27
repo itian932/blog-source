@@ -1,10 +1,18 @@
 [
   {
-    "author": "梦溟子",
+    "author": "孔子",
     "avatar": "/assets/images/avatar.jpg",
     "date": "2026-01-01 00:00:00",
     "content": "有朋自远方来，不亦说乎。",
     "key": "key-1",
     "tags": ["论语"]
+  },
+  {
+    "author": "梦溟子",
+    "avatar": "/assets/images/avatar.jpg",
+    "date": "2026-02-27 14:00:00",
+    "content": "内心不够坚定，很容易被欲望吞噬，保持真我，做身体的主人。",
+    "key": "key-2",
+    "tags": ["人性", "励志"]
   }
 ]
